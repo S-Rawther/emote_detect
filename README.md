@@ -20,5 +20,16 @@ pip install -r packages.txt
 ## Installation ##
 
 If you're using pycharm or any similar IDE, then you can just download and extract the zip file straight away. If not, then clone the repo using:
+```bash
+git clone https://github.com/Shahin-Nishad/emote_detect.git
+cd emote_detect
+python train_AI.py
+```
 
 **The Dataset CSV file is already uploaded with the file**
+Once the training is done, you can run the program by:
+
+```bash
+cd emote_detect
+python emote_detect.py
+```
