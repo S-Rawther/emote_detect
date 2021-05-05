@@ -21,3 +21,4 @@ pip install -r packages.txt
 ## Installation ##
 You can either download the zip file or clone the repo using:
 ```
+git clone 
