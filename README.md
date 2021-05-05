@@ -27,6 +27,7 @@ python train_AI.py
 ```
 
 **The Dataset CSV file is already uploaded with the file**
+
 Once the training is done, you can run the program by:
 
 ```bash
