@@ -18,9 +18,7 @@ pip install -r packages.txt
 ```
 
 ## Installation ##
-You can either download the zip file or clone the repo using:
-```
-git clone https://github.com/Shahin-Nishad/emote_detect.git
-cd emote_detect
-```
 
+If you're using pycharm or any similar IDE, then you can just download and extract the zip file straight away. If not, then clone the repo using:
+
+**The Dataset CSV file is already uploaded with the file**
