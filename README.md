@@ -17,8 +17,10 @@ You can install the required dependencies by running:
 pip install -r packages.txt
 ```
 
-
 ## Installation ##
 You can either download the zip file or clone the repo using:
 ```
-git clone 
+git clone https://github.com/Shahin-Nishad/emote_detect.git
+cd emote_detect
+```
+
