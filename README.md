@@ -27,7 +27,7 @@ python train_AI.py
 ```
 
 **You can Download FER2013 Dataset CSV file from:**
-[FER2013] (https://www.kaggle.com/deadskull7/fer2013)
+[FER2013](https://www.kaggle.com/deadskull7/fer2013)
 
 Once the training is done, you can run the program by:
 
