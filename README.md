@@ -34,3 +34,7 @@ Once the training is done, you can run the program by:
 cd emote_detect
 python emote_detect.py
 ```
+
+## Algorithm ##
+
+The AI works by using Haar Cascade to identify face from each frame of the capture device, which is then cropped to **48 pixel square** for the Neural Network. The Output is decided using the most probable emotion from the list of Softmax Score
