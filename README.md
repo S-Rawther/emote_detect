@@ -21,7 +21,7 @@ pip install -r packages.txt
 
 If you're using pycharm or any similar IDE, then you can just download and extract the zip file straight away. If not, then clone the repo using:
 ```bash
-git clone https://github.com/S-Rawhter/emote_detect.git
+git clone https://github.com/S-Rawther/emote_detect.git
 cd emote_detect
 python train_AI.py
 ```
