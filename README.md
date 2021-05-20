@@ -39,4 +39,8 @@ python emote_detect.py
 
 ## Algorithm ##
 
-The AI works by using Haar Cascade to identify face from each frame of the capture device, which is then cropped to **48 pixel square** for the Neural Network. The Output is decided using the most probable emotion from the list of Softmax Score
+The AI works by using Haar Cascade to identify face from each frame of the capture device, which is then cropped to **48 pixel square** for the Neural Network. The Output is decided using the most probable emotion from the list of Softmax Score.
+
+## Additional Info ##
+
+While you go through the code, you may see something called an epoch, which indicates the number of passes of the data-set the AI has completed and so it is always recommended to do multiple passes. If you wish to change the epoch value, feel free to do so. But, do remeber that more number of passes doesn't necessarily mean accurate outputs.
